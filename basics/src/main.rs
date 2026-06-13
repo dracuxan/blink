@@ -12,5 +12,5 @@ mod flame_pump;
 #[arduino_hal::entry]
 fn main() -> ! {
     // Call whichever module you want to flash:
-    detect_laser::run();
+    blink_led::run();
 }

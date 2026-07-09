@@ -1,11 +1,11 @@
 [package]
-name = "blink"
+name = "point"
 version = "0.1.0"
 edition = "2021"
 authors = ["dracuxan <dracuxan@proton.me>"]
 
 [[bin]]
-name = "blink"
+name = "point"
 test = false
 bench = false
 
